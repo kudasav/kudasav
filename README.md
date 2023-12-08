@@ -1,17 +1,17 @@
-## Hi there 😃
+## Hi there!
 
-I am Kuda, a 22 year old hobbyist developer. I love learning about and experimenting with new technologies and languages. 
+I am Kuda, a hobbyist developer. I love learning about and experimenting with new technologies and languages. 
 
 Welcome to my profile!
 
-### 🤓 Current plans and projects I am working on:
+### Current plans and projects I am working on:
 
 - Web Development and process automation projects (freelancing)
 - Web Scraping and data aggregation
 - Cloud Computing with AWS
 - Arduino, IoT Devices and Electronics (on my free time)
 
-#### 💻 Programming Languages I Understand:
+#### Programming Languages I Understand:
 
 - Python
 - C++
@@ -20,7 +20,7 @@ Welcome to my profile!
 - PHP
 - SQL
 
-### 📫 How to reach me:
+### How to reach me:
 
 You can contact me through the following methods
 
